@@ -1,4 +1,5 @@
-import masks
+from src import masks
+
 
 def mask_account_card(number: str) -> str:
 '''принимает на вход строку формата'''
